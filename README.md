@@ -21,12 +21,13 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/riya0704" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://x.com/caughton8k?t=nypk270L3Evq7en-e52aOg&s=09" target="_blank">
+  <!--<a href="https://x.com/caughton8k?t=nypk270L3Evq7en-e52aOg&s=09" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://sapphiresmith.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Badge"/>
   </a>
+  -->
 </div>
 
 <h1 align="center">
@@ -46,11 +47,11 @@ I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMp
 
 - 🌱 Currently exploring **React js and Node js at next level** and open to collaborating on creative and open source projects.
 - ⚡ In my free time, I love to build cool projects and contribute to the open-source community.
-- 📫 Reach out to me: [![Linkedin Badge]](https://www.linkedin.com/in/riya0704)
+- 📫 Reach out to me: (riyagoyal.rg07@gmail.com)
 
 ---
 
-### 🔧 Languages and Tools:
+<!--### 🔧 Languages and Tools:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50" style="margin: 10px;"/>
@@ -71,7 +72,7 @@ I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge" title="WebRTC" alt="WebRTC" width="50" height="50" style="margin: 10px;"/>
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub logo" width="50" height="50" style="margin: 10px;"/>
 </div>
-
+-->
 ---
 
 ### 🔥 My Stats:
@@ -84,7 +85,7 @@ I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMp
 
 <div align="center">
   <a href="https://github.com/Riya-0704/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SapphireSmith&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya-0704&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
   </a>
 </div>
 
