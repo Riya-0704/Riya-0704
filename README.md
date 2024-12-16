@@ -65,7 +65,7 @@ I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMp
   <!--<img src="https://img.shields.io/badge/Zustand-blue?style=for-the-badge" title="Zustand" alt="Zustand" width="50" height="50" style="margin: 10px;"/>
   <img src="https://img.shields.io/badge/DaisyUI-EA4C89?style=for-the-badge" title="DaisyUI" alt="DaisyUI" width="50" height="50" style="margin: 10px;"/> -->
   <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50" style="margin: 10px; color🟦"/>
  <!-- <img src="https://img.shields.io/badge/Razorpay-0033A0?style=for-the-badge" title="Razorpay" alt="Razorpay" width="50" height="50" style="margin: 10px;"/>
   <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge" title="Stripe" alt="Stripe" width="50" height="50" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50" style="margin: 10px;"/>
