@@ -51,7 +51,7 @@ I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMp
 
 ---
 
-<!--### 🔧 Languages and Tools:
+### 🔧 Languages and Tools:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50" style="margin: 10px;"/>
@@ -59,20 +59,19 @@ I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50" style="margin: 10px;"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" title="Express.js" alt="Express.js" width="50" height="50" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge" title="Socket.io" alt="Socket.io" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" title="OpenAI API" alt="OpenAI API" width="50" height="50" style="margin: 10px;"/>
+ <!-- <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge" title="Socket.io" alt="Socket.io" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" title="OpenAI API" alt="OpenAI API" width="50" height="50" style="margin: 10px;"/>-->
   <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://img.shields.io/badge/Zustand-blue?style=for-the-badge" title="Zustand" alt="Zustand" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://img.shields.io/badge/DaisyUI-EA4C89?style=for-the-badge" title="DaisyUI" alt="DaisyUI" width="50" height="50" style="margin: 10px;"/>
+  <!--<img src="https://img.shields.io/badge/Zustand-blue?style=for-the-badge" title="Zustand" alt="Zustand" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://img.shields.io/badge/DaisyUI-EA4C89?style=for-the-badge" title="DaisyUI" alt="DaisyUI" width="50" height="50" style="margin: 10px;"/> -->
   <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="50" height="50" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://img.shields.io/badge/Razorpay-0033A0?style=for-the-badge" title="Razorpay" alt="Razorpay" width="50" height="50" style="margin: 10px;"/>
+ <!-- <img src="https://img.shields.io/badge/Razorpay-0033A0?style=for-the-badge" title="Razorpay" alt="Razorpay" width="50" height="50" style="margin: 10px;"/>
   <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge" title="Stripe" alt="Stripe" width="50" height="50" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge" title="WebRTC" alt="WebRTC" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge" title="WebRTC" alt="WebRTC" width="50" height="50" style="margin: 10px;"/> -->
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub logo" width="50" height="50" style="margin: 10px;"/>
 </div>
--->
 ---
 
 ### 🔥 My Stats:
