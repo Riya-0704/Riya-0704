@@ -24,10 +24,11 @@ You can click the Preview link to take a look at your changes.
   <!--<a href="https://x.com/caughton8k?t=nypk270L3Evq7en-e52aOg&s=09" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://sapphiresmith.vercel.app/" target="_blank">
+  -->
+  <a href="https://portfolio-smoky-seven-46.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Badge"/>
   </a>
-  -->
+  
 </div>
 
 <h1 align="center">
