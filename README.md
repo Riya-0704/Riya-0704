@@ -21,14 +21,12 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/riya0704" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <!--<a href="https://x.com/caughton8k?t=nypk270L3Evq7en-e52aOg&s=09" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  -->
   <a href="https://portfolio-smoky-seven-46.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Badge"/>
   </a>
-  
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Riya-0704&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h1 align="center">
