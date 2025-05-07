@@ -25,9 +25,6 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Riya-0704&style=flat-square&color=blue" alt=""/>
-</div>
 
 <h1 align="center">
   Hey there! 👋
@@ -61,7 +58,7 @@ I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMp
   <!--<img src="https://img.shields.io/badge/Zustand-blue?style=for-the-badge" title="Zustand" alt="Zustand" width="50" height="50" style="margin: 10px;"/>
   <img src="https://img.shields.io/badge/DaisyUI-EA4C89?style=for-the-badge" title="DaisyUI" alt="DaisyUI" width="50" height="50" style="margin: 10px;"/> -->
   <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50" style="margin: 10px; color🟦"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50" style="margin: 10px;"/>
  <!-- <img src="https://img.shields.io/badge/Razorpay-0033A0?style=for-the-badge" title="Razorpay" alt="Razorpay" width="50" height="50" style="margin: 10px;"/>
   <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge" title="Stripe" alt="Stripe" width="50" height="50" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50" style="margin: 10px;"/>
@@ -94,6 +91,7 @@ I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMp
 ---
 
 ### 🌟 Featured Work:
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="200"/>
